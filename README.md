@@ -9,4 +9,4 @@ Jupyter Notebooks that contain codes for :
  - topic modelling
  - sentiment analysis
  - representation learning 
-followed by performance analysis and appropriate graphs. The input data is sourced from different flat files given in the repository.  
+followed by performance analysis and appropriate graphs. The input data is sourced from different flat files with data about emails with spam-not spam details.  
